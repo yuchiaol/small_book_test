@@ -1,4 +1,4 @@
-# quantecon-mini-example
+# quantecon-mini-example xxx
 
 A short example showing how to write a lecture series using Jupyter Book 2.0.
 

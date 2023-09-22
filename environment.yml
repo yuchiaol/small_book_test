@@ -1,4 +1,4 @@
-name: qe-mini-example
+name: qe-mini-example  
 channels:
   - default
 dependencies:
